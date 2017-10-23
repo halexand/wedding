@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When and Where"
+title: "Where and When"
 author: ""
 categories: documentation
 tags: [documentation,sample]
