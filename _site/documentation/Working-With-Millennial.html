@@ -36,7 +36,7 @@
 </script>
 
   <!-- Use Atom --> 
-  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" /> 
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="" /> 
 
 </head>
 
@@ -106,11 +106,12 @@
 
 <p>There are two main layout options that are included with Millennial: post and page. Layouts are specified through the <a href="https://jekyllrb.com/docs/frontmatter/">YAML front block matter</a>. Any file that contains a YAML front block matter will be processed by Jekyll. For example:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+<div class="highlighter-rouge"><pre class="highlight"><code>---
 layout: post
 title: "Example Post"
 ---
-</code></pre></div></div>
+</code></pre>
+</div>
 
 <p>Examples of what posts looks like can be found in the <code class="highlighter-rouge">_posts</code> directory, which includes this post you are reading right now. Posts are the basic blog post layout, which includes a header image, post content, author name, date published, social media sharing links, and related posts.</p>
 
@@ -122,7 +123,7 @@ title: "Example Post"
 
 <p>The recommended YAML front block is:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+<div class="highlighter-rouge"><pre class="highlight"><code>---
 layout:
 title:
 categories:
@@ -134,7 +135,8 @@ image:
   creditlink:
 
 ---
-</code></pre></div></div>
+</code></pre>
+</div>
 
 <p><code class="highlighter-rouge">layout</code> specifies which layout to use, <code class="highlighter-rouge">title</code> is the page or post title, <code class="highlighter-rouge">categories</code> can be used to better organize your posts, <code class="highlighter-rouge">tags</code> are used to show related posts, as well as indicate what topics are related in a given post, and <code class="highlighter-rouge">image</code> specifies which images to use. There are two main types of images that can be used in a given post, the <code class="highlighter-rouge">feature</code> and the <code class="highlighter-rouge">teaser</code>, which are typically the same image, except the teaser image is cropped for the home page. You can give credit to images under <code class="highlighter-rouge">credit</code>, and provide a link if possible under <code class="highlighter-rouge">creditlink</code>.</p>
 
@@ -182,14 +184,14 @@ image:
           
             <li>
               <h3>
-                <a href="/documentation/Welcome-to-Millennial.html">
+                <a href="/documentation/WhereandWhen.html">
                   <div class="related-thumbnail">
                     <img src="http://localhost:4000/assets/img/cuba-1.jpg">
                   </div>
                   <div class="related-title">
-                    When and Where
+                    Where and When
                   </div>
-                  <!--<small>January 1, 2017</small>-->
+                  <!--<small>January 4, 2017</small>-->
                 </a>
               </h3>
             </li>
@@ -199,14 +201,14 @@ image:
           
             <li>
               <h3>
-                <a href="/documentation/Installation-Guide.html">
+                <a href="/documentation/TransitSD.html">
                   <div class="related-thumbnail">
                     <img src="http://localhost:4000/assets/img/city-2.jpg">
                   </div>
                   <div class="related-title">
-                    Installation Guide
+                    Getting to and around San Diego
                   </div>
-                  <!--<small>December 12, 2016</small>-->
+                  <!--<small>January 3, 2017</small>-->
                 </a>
               </h3>
             </li>
