@@ -11,6 +11,7 @@ source_link:      https://halexand.github.io/wedding/
 sass:
   sass_dir: assets/css
   style: :nested
+favicon:     "favicon.ico"
 
 # Customise feed settings (uncommenting following two fields to customise feed title and description)
 #title:		     "Lagrange-Custom"
