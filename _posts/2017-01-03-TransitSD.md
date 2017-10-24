@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting to and around San Diego"
+title: "Travel"
 author: ""
 categories: documentation
 tags: [documentation,sample]
