@@ -2,10 +2,10 @@
 layout: post
 title: "Activities in San Diego"
 author: ""
-categories: documentation
-tags: [documentation,sample]
+categories: logistics
+tags:
 image:
-  feature: nature-1.jpg
+  feature: wed11.jpg
 ---
 
 Here are some fun activities in the San Diego area if you have some time to spare
@@ -34,5 +34,3 @@ San Diego is home to many breweries, such as "The Green Flash" and "Stone". Indi
 * Baja California, Mexico is just south of San Diego. We recommend visiting Ensenada and the nearby "Valle de Guadaloupe" if you have a chance.
 
 * Los Angeles is 2 hours north of San Diego.
-
-

@@ -2,10 +2,10 @@
 layout: post
 title: "Where and When"
 author: ""
-categories: documentation
-tags: [documentation,sample]
+categories: logistics
+tags: 
 image:
-  feature: cuba-1.jpg
+  feature: wed3.jpg
 ---
 
 the wedding of
