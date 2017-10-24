@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Accomodations"
+title: "Accommodations"
 author: ""
-categories: documentation
-tags: [documentation,sample]
+categories: logistics
+tags:
 image:
-  feature: nature-1.jpg
+  feature: wed22.jpg
 ---
 
 ## We will be in touch in the coming months with group airbnb and hotel options -- stay tuned!

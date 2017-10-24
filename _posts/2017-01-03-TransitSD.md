@@ -2,10 +2,10 @@
 layout: post
 title: "Getting to and around San Diego"
 author: ""
-categories: documentation
-tags: [documentation,sample]
+categories: logistics
+tags:
 image:
-  feature: city-2.jpg
+  feature: wed31.jpg
 ---
 
 # Airport
