@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>H ♡ I</title>
-		<description>Alexander - Le Bras Wedding</description>
+		<description>Alexander - Astiz Le Bras Wedding</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
@@ -14,22 +14,34 @@
 
 </description>
 				
-				<pubDate>Wed, 04 Jan 2017 00:00:00 -0800</pubDate>
-				<link>http://localhost:4000/documentation/WhereandWhen.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/WhereandWhen.html</guid>
+				<pubDate>Fri, 20 Oct 2017 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/weddingsched,/logistics/WhereandWhen.html</link>
+				<guid isPermaLink="true">http://localhost:4000/weddingsched,/logistics/WhereandWhen.html</guid>
 			</item>
 		
 			<item>
-				<title>Getting to and around San Diego</title>
+				<title>Travel</title>
 				
 				
 					<description>&lt;h1 id=&quot;airport&quot;&gt;Airport&lt;/h1&gt;
 
 </description>
 				
-				<pubDate>Tue, 03 Jan 2017 00:00:00 -0800</pubDate>
-				<link>http://localhost:4000/documentation/TransitSD.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/TransitSD.html</guid>
+				<pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/logistics/TransitSD.html</link>
+				<guid isPermaLink="true">http://localhost:4000/logistics/TransitSD.html</guid>
+			</item>
+		
+			<item>
+				<title>Our Story</title>
+				
+				
+					<description>&lt;p&gt;We are SOOOOOO cute.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/love/OurStory.html</link>
+				<guid isPermaLink="true">http://localhost:4000/love/OurStory.html</guid>
 			</item>
 		
 			<item>
@@ -40,97 +52,45 @@
 
 </description>
 				
-				<pubDate>Mon, 02 Jan 2017 00:00:00 -0800</pubDate>
-				<link>http://localhost:4000/documentation/Activities.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/Activities.html</guid>
+				<pubDate>Tue, 01 Aug 2017 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/weddingsched,/logistics/Activities.html</link>
+				<guid isPermaLink="true">http://localhost:4000/weddingsched,/logistics/Activities.html</guid>
 			</item>
 		
 			<item>
-				<title>Accomodations</title>
+				<title>RSVP</title>
+				
+				
+					<description>&lt;h1 id=&quot;rsvp-link-underway&quot;&gt;RSVP link underway!&lt;/h1&gt;
+</description>
+				
+				<pubDate>Sat, 15 Jul 2017 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/rsvp/RSVP.html</link>
+				<guid isPermaLink="true">http://localhost:4000/rsvp/RSVP.html</guid>
+			</item>
+		
+			<item>
+				<title>Registry</title>
+				
+				
+					<description>&lt;h1 id=&quot;registry-will-appear-here&quot;&gt;Registry will appear here&lt;/h1&gt;
+</description>
+				
+				<pubDate>Sat, 01 Jul 2017 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/registry/Registry.html</link>
+				<guid isPermaLink="true">http://localhost:4000/registry/Registry.html</guid>
+			</item>
+		
+			<item>
+				<title>Accommodations</title>
 				
 				
 					<description>&lt;h2 id=&quot;we-will-be-in-touch-in-the-coming-months-with-group-airbnb-and-hotel-options--stay-tuned&quot;&gt;We will be in touch in the coming months with group airbnb and hotel options – stay tuned!&lt;/h2&gt;
 </description>
 				
 				<pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-				<link>http://localhost:4000/documentation/Accommodations.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/Accommodations.html</guid>
-			</item>
-		
-			<item>
-				<title>Working With Jekyll</title>
-				
-				
-					<description>&lt;h3 id=&quot;posts&quot;&gt;Posts&lt;/h3&gt;
-
-</description>
-				
-				<pubDate>Fri, 11 Nov 2016 00:00:00 -0800</pubDate>
-				<link>http://localhost:4000/documentation/Working-With-Jekyll.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/Working-With-Jekyll.html</guid>
-			</item>
-		
-			<item>
-				<title>Working With Millennial</title>
-				
-				
-					<description>&lt;p&gt;Millennial was designed to be a minimalist theme in order for the focus to remain on your content.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Mon, 10 Oct 2016 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/documentation/Working-With-Millennial.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/Working-With-Millennial.html</guid>
-			</item>
-		
-			<item>
-				<title>Text Formatting</title>
-				
-				
-					<description>&lt;p&gt;As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown syntax&lt;/a&gt;. Examples of these text formatting features can be seen below. You can find this post in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 09 Sep 2016 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/sample/Text-Formatting.html</link>
-				<guid isPermaLink="true">http://localhost:4000/sample/Text-Formatting.html</guid>
-			</item>
-		
-			<item>
-				<title>Math and Code Formatting</title>
-				
-				
-					<description>&lt;p&gt;Millennial comes out of the box with &lt;a href=&quot;https://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt; and syntax highlighting through &lt;a href=&quot;https://help.github.com/articles/creating-and-highlighting-code-blocks/&quot;&gt;fenced code blocks&lt;/a&gt;. MathJax allows you to display mathematical equations in your posts through the use of &lt;a href=&quot;http://www.andy-roberts.net/writing/latex/mathematics_1&quot;&gt;LaTeX&lt;/a&gt;. Syntax highlighting allows you to display source code in different colors and fonts depending on what programming language is being displayed.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Mon, 08 Aug 2016 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/sample/Math-and-Code-Formatting.html</link>
-				<guid isPermaLink="true">http://localhost:4000/sample/Math-and-Code-Formatting.html</guid>
-			</item>
-		
-			<item>
-				<title>Death to Stock</title>
-				
-				
-					<description>&lt;p&gt;All of the beautiful photos that you see used on this demo site have been taken from &lt;a href=&quot;http://deathtothestockphoto.com/&quot;&gt;Death to Stock&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 07 Jul 2016 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/resources/Death-to-Stock.html</link>
-				<guid isPermaLink="true">http://localhost:4000/resources/Death-to-Stock.html</guid>
-			</item>
-		
-			<item>
-				<title>Free Code Camp</title>
-				
-				
-					<description>&lt;p&gt;Interested in learning how to code? If you are interested in doing web development, check out &lt;a href=&quot;https://www.freecodecamp.com/&quot;&gt;Free Code Camp&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 06 Jun 2016 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/resources/Freecodecamp.html</link>
-				<guid isPermaLink="true">http://localhost:4000/resources/Freecodecamp.html</guid>
+				<link>http://localhost:4000/logistics/Accommodations.html</link>
+				<guid isPermaLink="true">http://localhost:4000/logistics/Accommodations.html</guid>
 			</item>
 		
 	</channel>
