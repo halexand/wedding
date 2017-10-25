@@ -5,13 +5,13 @@ author: ""
 categories: logistics
 tags:
 image:
-  feature: wed33.jpg
+  feature: wed8.jpg
 ---
 
 # Airport
 
-The nearest airport is San Diego International Airport **(SAN)**. The airport is right in downtown San Diego and La Jolla is about 20 minutes north.
+The nearest airport is San Diego International Airport **(SAN)**. The airport is located in downtown San Diego. The ceremony and other activities will take place in and around La Jolla, which is about 20 minutes north.
 
 # Getting around San Diego
 
-Especially if you would like to explore San Diego, we recommend bringing or renting a car. San Diego is quite hilly, highway-y and does not yet have good public transit, walking or biking options. If this does not work for you, you might consider staying in La Jolla, which is somewhat more walkeable neighborhood. Lyft is reasonably priced if you just need a couple short rides around town.
+San Diego is a great city with many interesting neighborhoods and tons of fun things to do. We recommend bringing or renting a car, particularly if you are wanting to go exploring or go do things. San Diego is quite hilly, highway-y and does not yet have good public transit, walking, or biking options. If you would rather not rent or bring a car, you might consider staying in La Jolla, which is somewhat more walkeable neighborhood and is where the ceremony and reception will be. Lyft is reasonably priced if you just need a couple short rides around town.
