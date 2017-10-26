@@ -10,8 +10,8 @@ disqus:
   disqus_shortname: 'H ♡ I'
 
 menu:
-- {name: 'Logistics', folder: 'pages', file: 'Logistics'}
-- {name: 'Love', folder: 'pages', file: 'Love'}
+- {name: 'Logistics', folder: 'pages', file: 'logistics.html'}
+- {name: 'Love', folder: 'pages', file: 'love.html'}
 # - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 # - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
@@ -19,7 +19,7 @@ menu:
 # - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 social:
-- {icon: 'github', link: 'https://github.com/halexand'}
+- {icon: 'heart', link: 'https://halexand.github.io/wedding/pages/lost.html'}
 # - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 # - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
