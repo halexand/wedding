@@ -2,8 +2,8 @@
 layout: post
 title: "Where and When"
 author: ""
-categories: weddingsched, logistics
-tags: 
+categories: logistics
+tags: logistics, travel
 image:
   feature: wed3.jpg
 ---

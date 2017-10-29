@@ -3,7 +3,7 @@ layout: post
 title: "Accommodations"
 author: ""
 categories: logistics
-tags:
+tags: [travel, logistics]
 image:
   feature: wed22.jpg
 ---
