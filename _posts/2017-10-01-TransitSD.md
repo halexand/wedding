@@ -3,7 +3,7 @@ layout: post
 title: "Travel"
 author: ""
 categories: logistics
-tags:
+tags: travel
 image:
   feature: wed9.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Activities in San Diego"
 author: ""
 categories: weddingsched, logistics
-tags:
+tags: travel
 image:
   feature: wed11.jpg
 ---

@@ -44,8 +44,8 @@ layout: default
     </div>
   </div> -->
 
-  <div class="related">
-    <h2>Also ... </h2>
+  <!-- <div class="related">
+    <h2> </h2>
     {% assign listed_posts_urls = page.url | split: ' ' %}
     <ul class="related-posts">
       {% for tag in page.tags %}
@@ -62,7 +62,7 @@ layout: default
                     {{ mypost.title }}
                   </div>
                   <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
-                </a>
+                <!-- </a>
               </h3>
             </li>
             {% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
@@ -70,7 +70,7 @@ layout: default
         {% endfor %}
       {% endfor %}
     </ul>
-  </div>
+  </div> -->
 
   {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}
