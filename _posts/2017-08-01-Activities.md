@@ -31,6 +31,6 @@ San Diego is home to many breweries, such as "The Green Flash" and "Stone". Indi
 
 # Nearby
 
-* Baja California, Mexico is just south of San Diego. We recommend visiting Ensenada and the nearby "Valle de Guadaloupe" if you have a chance.
+* Baja California, Mexico is just south of San Diego. We recommend visiting Ensenada and the nearby "Valle de Guadalupe" if you have a chance.
 
 * Los Angeles is 2 hours north of San Diego.
