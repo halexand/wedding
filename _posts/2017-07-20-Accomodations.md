@@ -8,4 +8,10 @@ image:
   feature: wed22.jpg
 ---
 
-## We will be in touch in the coming months with group airbnb and hotel options -- stay tuned!
+We recommend reserving accommodation as soon as possible as June is the start of the tourist season in San Diego! AirBnB is a good option, especially for groups. Here are some traditional hotel options if you prefer:
+
+#### Hotels
+
+* La Jolla Shores Hotel is a classic hotel just down the beach from the wedding location.
+
+* The Residence Inn by Marriot in La Jolla is also conveniently located and more affordable.
