@@ -13,6 +13,7 @@ menu:
 - {name: 'Logistics', folder: 'pages', file: 'logistics.html'}
 - {name: 'Love', folder: 'pages', file: 'love.html'}
 - {name: 'RSVP', folder: 'pages', file: 'RSVP.html'}
+- {name: 'Registry', folder: 'pages', file: 'Registry.html'}
 # - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 # - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
