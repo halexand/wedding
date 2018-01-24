@@ -1,11 +1,9 @@
 ---
 layout: page
 title: RSVP
-redirect_from:
-  - /RSVP
 ---
 {% for post in site.categories.rsvp %}
-  <a href="{{ site.github.url }}{{ post.url }}">
+  <a href="{{ site.github.url }}{/RSVP}">
     <div class="featured-posts" {% if post.image.feature %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image.feature }})"{% endif %}>
       <h2><span>{{ post.title }}</span></h2>
     </div>
