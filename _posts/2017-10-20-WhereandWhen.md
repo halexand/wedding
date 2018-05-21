@@ -29,8 +29,8 @@ The Martin Johnson House · Scripps · La Jolla, CA
 Attire: Garden Formal
 {: style="color:gray; font-size: 120%; text-align: center;"}
 
-Ceremony at 1500
+Ceremony at 1500 hours
 {: style="color:gray; font-size: 120%; text-align: center;"}
 
-Dinner at 1730 with dancing to follow
+Dinner at 1730 hours with dancing to follow
 {: style="color:gray; font-size: 120%; text-align: center;"}
